@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nelsonwalcottjr
+- 👀 I’m interested in angular js
+- 🌱 I’m currently learning front skills
